@@ -5,7 +5,7 @@
 }
 
 body{
-  font-family: 'Lato', sans-serif;  
+  font-family: 'Lobster', cursive;
 }
 
 .row{
@@ -48,15 +48,15 @@ body{
   border-bottom: 2px solid #000;
 }
 
-#title-one {
+#title1 {
   background-color: #D59898;
 } 
 
-#title-two{
+#title2{
   background-color: #C14543;
 }
 
-#title-three{
+#title3{
   background-color: #E5D198;
 }
 
